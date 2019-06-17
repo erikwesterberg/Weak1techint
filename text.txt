@@ -1,0 +1,3 @@
+To check if your Ruby version is sufficient, run ```rvm list``` or ```ruby -v```.  If necessary, switch to v2.6.3 with ruby version manager ```rvm --default use ruby-2.6.3```.  Otherwise, use RVM to perform a fresh Ruby install.
+
+To install RSpec, ensure the Gemfile from the repository is located in the root folder and run RVM command ```bundle install```.

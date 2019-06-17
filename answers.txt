@@ -1,0 +1,6 @@
+- How do you initialize rspec?
+Answer: To install RSpec, ensure the Gemfile from the repository is located in the root folder 
+and then run RVM command ```bundle install```.
+-Why do we write our test first?
+- Because when we write our test, we write the specefic thing we want our program to do,
+and then we implement our code to pass that test, the code is more simple then if we would write code first.
